@@ -179,3 +179,11 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+# NYC Airbnb ML Pipeline Project
+
+## Project Links
+
+- W&B Report Link: bit.ly/3LrhyWD
+- GitHub Repository: https://github.com/AHunter2026/Project-Build-an-ML-Pipeline
+
